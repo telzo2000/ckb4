@@ -1,5 +1,7 @@
 # ckb4
 
+![](img/img00001.jpg)
+
 ## What is ckb4?
 
 ckb4 is a small keyboard with qaz layout.
