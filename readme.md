@@ -12,7 +12,7 @@ ckb4 use RP2040-Zero,run qmk_firmware.
 
 ## firmware
 
-vial is possible.
+[vial](https://get.vial.today/) is possible.
 <br>
 
 ## parts list
