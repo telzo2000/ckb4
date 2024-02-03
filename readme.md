@@ -17,6 +17,12 @@ ckb4 use RP2040-Zero,run qmk_firmware.
 [vial](https://get.vial.today/) is possible.
 <br>
 
+## build guide
+
+https://github.com/telzo2000/ckb4/blob/main/buildguide_for_ckb4.md
+
+
+
 ## parts list
 
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
