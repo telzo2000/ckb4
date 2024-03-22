@@ -26,6 +26,7 @@ https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
 
 ![](img/img00003.jpg)
 
+[movie](https://www.youtube.com/watch?v=Ccrc7-rJzww)
 
 Solder the diodes to the back of PCB.
 <br>
@@ -45,6 +46,17 @@ Use a lead bender to bend the legs of the diode.
 <br>
 リードベンダーを使い、ダイオードの足を曲げます。
 <br>
+
+![](img/img00009.jpg)
+
+Cut the diode leads first as shown in the photo above.
+<br>
+
+上の写真のように、先にダイオードのリードを切ってください。
+<br>
+
+
+
 Insert the diode into the board.
 <br>
 ダイオードを基板に挿しこみます。
@@ -55,19 +67,17 @@ Please pay attention to the orientation of the diode.
 ダイオードの向きに注意してください。
 <br>
 
+![](img/img00011.jpg)
 
-Secure the diode with masking tape, then face up.
+![](img/img00010.jpg)
+
+Please solder.
 <br>
-マスキングテープでダイオードを固定してから、表面を上にします。
+はんだ付けをしてください。
 <br>
-Solder the protruding legs.
-<br>
-はみ出ている足部分に、ハンダ付けをします。
-<br>
-After soldering, use nippers to cut off the protruding legs.
-<br>
-はんだ付けが終わったら、はみ出ている足をニッパーで切り取ってください。
-<br>
+
+
+
 
 [８倍速　Diodeハンダ付け動画](https://youtu.be/Yaodh2-XxV4)
 
@@ -76,19 +86,18 @@ After soldering, use nippers to cut off the protruding legs.
 
 ### 2 Soldering switch sockets
 
-![](img/img00004.jpg)
+
+[movie](https://www.youtube.com/watch?v=B_qjJxccLHA)
 
 Solder the switch sockets on the back side.
 <br>
 裏面にスイッチソケットのハンダ付けをします。
 <br>
 
-Note
+![](img/img00012.jpg)
 
-<br>
-The bottom row has cherry MX and Kailh choc switch sockets, but this is a prototype. Currently, it supports choc.
-<br>
-最下段に、cherry MXとKailh chocのスイッチソケットが付いているが、これは試作品です。現在は、choc対応になっている。
+![](img/img00013.jpg)
+
 
 [８倍速　Switch socketハンダ付け動画](https://youtu.be/E__mHvmIXQo)
 
@@ -144,9 +153,25 @@ QMK_FirmwareをPCからRP-2040Zeroにインストールしてください。
 <br>
 ⑤[vial](https://get.vial.today/)に繋いで認識するかどうか確認する。合わせてキーマップの編集をする。
 
-### Build 2(case)
+## Build 2a(prototype_case)
 
-### 1 Case
+[movie](https://www.youtube.com/watch?v=uL3kOORdtyU)
+
+With the bottom side of the top case facing up, heat seal the insert nuts in 6 locations using a soldering iron.
+<br>
+トップケースの下側を表面にし、インサートナットを６箇所に、はんだゴテで熱封入します。
+<br>
+<br>
+Insert a 6mm M2 screw from the bottom of the bottom case to secure the top case and bottom case.
+<br>
+ボトムケースの下側から、M2ネジ6mmを差し込み、トップケースとボトムケースを固定します。
+<br>
+<br>
+
+
+
+## Build 2b(keecke_type_case)
+
 
 Insert the switch into the top case from above and secure it with the PCB switch socket from the bottom of the top case.
 <br>
