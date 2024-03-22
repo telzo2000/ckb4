@@ -24,7 +24,6 @@ https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
 
 ### 1 Diode soldering
 
-![](img/img00003.jpg)
 
 [movie](https://www.youtube.com/watch?v=Ccrc7-rJzww)
 
